@@ -46,9 +46,11 @@ Getting this running for real in one bar, with actual patrons signing in and see
 ## Constraints
 
 This is still ideation. There's no budget locked in and no committed team size, so scope has to stay something a small team, or one person, could actually build.
-
+ 
 We're at the mercy of third-party fantasy platforms for roster and scoring data, and some of them don't offer a clean API or any API at all. Live NFL play-by-play data has the same problem. Getting it accurately in real time probably means paying for a data provider.
-
+ 
 The hardware side adds real cost and real logistics: installing something, supporting it, making sure bar staff don't have to babysit it. For MVP this probably means faking the "device" with a QR code and a tablet rather than building anything custom. Bar wifi being unreliable is also just a fact of life we have to design around.
-
+ 
+Whether the plays and points show up as an overlay on the bar's existing TV or on a separate dedicated screen is still open. A dedicated screen gives us more room to show multiple people who scored on the same play at once, but it means asking a venue to find space for another display and plug it in, which is a bigger ask than an overlay that rides on a screen they already have. This decision affects cost, install effort, and how willing venues are to say yes, so it needs to get settled before MVP scope is locked.
+ 
 One more thing worth flagging early: using team logos, player likenesses, or broadcast footage on a public display isn't free of licensing questions. That needs a real look before this goes in front of actual customers.
