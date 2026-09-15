@@ -4,14 +4,14 @@
 
 **Status:** 🌱 Early stage — documentation & planning only, no code yet.
 
-This repository is currently a **documentation-only** hub. Before we write a line of code, we're using it to line up *why* we're building this, *what* we're building, and *how* we'll work together — since the team spans different technical backgrounds.
+This repository is currently a **documentation-only** hub. Before we write a line of code, we're using it to line up _why_ we're building this, _what_ we're building, and _how_ we'll work together — since the team spans different technical backgrounds.
 
 If you're new here, start with the section below that matches you.
 
 ## Where to start, by role
 
 | You are... | Start here |
-|---|---|
+| --- | --- |
 | Curious / non-technical, want the big picture | [`docs/00-overview/vision.md`](docs/00-overview/vision.md) |
 | A contributor with an idea | [`docs/02-ideation`](docs/02-ideation) |
 | A contributor wanting to help write requirements | [`docs/01-requirements`](docs/01-requirements) |
